@@ -3,7 +3,8 @@
 creative back-end developer resume webiste using HTML/CSS/JS
 
 ## Demo
-![](https://github.com/mr-hosseinaskarii/argparse/blob/main/CLI-Calculator/readme/HowToUse.gif)
+![](https://github.com/mr-hosseinaskarii/HTML-Resume/blob/master/README/Animation.gif)
+
 
 
 ## Tech Stack
